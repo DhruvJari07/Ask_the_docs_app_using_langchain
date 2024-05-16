@@ -1,0 +1,7 @@
+langchain
+huggingface_hub
+streamlit
+python-dotenv
+tiktoken
+chromadb
+sentence-transformers
